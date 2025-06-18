@@ -1,22 +1,28 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nanduni+Sathsara!;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Nanduni Sathsara</h1>
+
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Gif">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&center=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+a+passionate+learner+%26+developer.;Let's+build+cool+projects+together+%F0%9F%92%BB" alt="Welcome Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=it22265692&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile View Counter" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="300" alt="Animated Developer" />
+</p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=it22265692&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
-🌱 Currently learning: **Python** and **Java**  
-💬 Ask me about: **React, HTML, CSS, JavaScript**  
-📫 Reach me at: **sathsarananduni@gmail.com**
+- 🎓 3rd Year @ **University of Colombo** – *BSc (Hons) in Computational Mathematics*  
+- 💻 4th Year @ **SLIIT** – *BSc (Hons) in Information Technology (Software Engineering)*  
+- 🌱 Currently learning: **Python** & **Java**  
+- 💬 Ask me about: **React, HTML, CSS, JavaScript**  
+- 📫 Reach me: **sathsarananduni@gmail.com**
 
 ---
 
@@ -31,15 +37,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=it22265692&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=it22265692&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22265692&theme=radical" width="47%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22265692&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22265692&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22265692&layout=compact&theme=radical" width="47%" />
 </p>
 
 ---
@@ -58,5 +61,5 @@
 ---
 
 <p align="center">
-  ⭐️ Thanks for visiting my GitHub profile!
+  💖 Thanks for visiting my GitHub profile! Let’s build something amazing together.
 </p>
