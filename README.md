@@ -18,8 +18,6 @@
 
 ## 💡 About Me
 
-- 🎓 3rd Year @ **University of Colombo** – *BSc (Hons) in Computational Mathematics*  
-- 💻 4th Year @ **SLIIT** – *BSc (Hons) in Information Technology (Software Engineering)*  
 - 🌱 Currently learning: **Python** & **Java**  
 - 💬 Ask me about: **React, HTML, CSS, JavaScript**  
 - 📫 Reach me: **sathsarananduni@gmail.com**
