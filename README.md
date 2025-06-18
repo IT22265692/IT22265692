@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nanduni+Sathsara!;Computational+Mathematics+%7C+Software+Engineering+Undergraduate;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nanduni+Sathsara!;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -47,12 +47,16 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nanduni-sathsara" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
-  <a href="mailto:sathsarananduni@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/nanduni-sathsara-348198272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:sathsarananduni@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐️ Thanks for visiting my profile!
+  ⭐️ Thanks for visiting my GitHub profile!
 </p>
